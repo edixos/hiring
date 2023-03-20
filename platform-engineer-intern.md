@@ -46,3 +46,19 @@ This is a 6-month project graduation internship, with the possibility of a CDI p
 * Possibility to join the company in a CDI contract after the end of the intern.
 
 
+## How to apply
+
+If you are interested in this exciting opportunity to work with Edixos as a Platform Engineer Intern, we encourage you to apply today! Please email your resume and a cover letter to `hello [at] edixos.com`. We look forward to hearing from you soon.
+
+Additionally, if you have a GitHub, BitBucket, or GitLab profile and contribute to open-source projects, please include a link to your profile in your application email.
+
+## Recruiting process
+
+Our recruiting process involves an initial screening interview to discuss your background, work habits, and past experience, including any contributions you have made to open-source projects.
+
+After this, we will assign you a practical task to complete, which will involve working on a GitHub repository with a user story. You will be given a deadline to submit a Pull Request, and once completed, a code review will be conducted to assess your soft skills.
+
+At Edixos, we embrace a remote-first approach and value ethical conduct. As such, we require all interactions to be conducted asynchronously, in line with our core values. If your Pull Request is approved, we will schedule a final call and make arrangements for onboarding.
+
+
+
