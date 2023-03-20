@@ -8,4 +8,4 @@ Thank you for your interest in joining our team at Edixos. We look forward to he
 
 ## Open positions
 
-- [Platform Engineer Intern](./platform-engineer-intern.md).
+- [Platform Engineer Intern](./platform-engineer-intern-en.md).
